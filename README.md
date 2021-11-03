@@ -5,7 +5,7 @@ For this part of the Challenge, you’ll write a report on the performance of th
 The report should contain the following:
 
 
-Overview of the analysis: Explain the purpose of this analysis.
+Overview of the analysis: Explain the purpose of this analysis.<br>
   The purpose of this analysis is to use the features in the provided dataset to create a neural network algorythm that can predict if the applicants of the Alphabet Soup charity will be successful or not. 
 
 
